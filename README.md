@@ -5,6 +5,18 @@
 
 Skills and Tools!
 
+<a href="https://vuejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+</a>
+<a href="https://www.sqlite.org/index.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+</a>
 <a href="https://www.javascript.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
 </a>
@@ -37,10 +49,4 @@ Skills and Tools!
 </a>
 <a href="https://redis.io/" target="_blank">
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
-</a>
-<a href="https://spring.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
 </a>
